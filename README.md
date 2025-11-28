@@ -1,4 +1,8 @@
 # y-yyy
+
+
+
+[网站视频1.html](https://github.com/user-attachments/files/23816285/1.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,9 +11,8 @@
     <title>Document</title>
 </head>
 <body>
-    <video src="C:\Users\杨练标\Desktop\剪辑\11月27日.mp4" width="520px" height="520px" controls="controls"></video>
+    <video width="520" height="520"  controls autoplay>
+        <source src="C:\Users\杨练标\Desktop\剪辑\11月27日.mp4" type="video/mp4">
+    
 </body>
 </html>
-
-
-
